@@ -1,4 +1,4 @@
-<p align="left">Hello/Olá!</p>
+<p align="left"><strong>Hello/Olá!</strong></p>
 
 ###
 
@@ -6,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yuicottrill&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuicottrill&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left"><strong>My technology:</strong></p>
 
 ###
 
@@ -23,10 +27,18 @@
 
 ###
 
+<p align="left"><strong>Contact:</strong></p>
+
+###
+
 <div align="left">
-  <a href="sukasadelet@gmail.com" target="_blank">
+  <a href="zrpapz12@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/oHsKFiT28Id0I/giphy.gif" alt="GIF" />
+</div>
